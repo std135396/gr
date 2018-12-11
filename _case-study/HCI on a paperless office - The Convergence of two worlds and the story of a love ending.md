@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 ##### HCI on a paperless office : Η σύγκλιση δύο κόσμων και η ιστορία μιας αγάπης που πεθαίνει.
 
 ###### ΕΙΣΑΓΩΓΗ
@@ -49,7 +59,7 @@
 
 
 
-#####  Βιβλιογραφία:
+######  Βιβλιογραφία
 
 Dymetman, M., & Copperman, M. (1998). Intelligent paper. In Electronic Publishing, Artistic Imaging, and Digital Typography (pp. 392-406). Springer, Berlin, Heidelberg.
 
